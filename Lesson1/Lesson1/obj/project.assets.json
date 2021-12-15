@@ -4623,19 +4623,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Centrical\\.nuget\\packages\\": {}
+    "C:\\Users\\YehudaAlkalay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Centrical\\OneDrive - Centrical\\Documents\\AutomationCourse\\Repos\\LessonsAutomation\\Lesson1\\Lesson1\\Lesson1.csproj",
+      "projectUniqueName": "C:\\Users\\YehudaAlkalay\\source\\repos\\FrameworkTests\\LessonsAutomation\\Lesson1\\Lesson1\\Lesson1.csproj",
       "projectName": "Lesson1",
-      "projectPath": "C:\\Users\\Centrical\\OneDrive - Centrical\\Documents\\AutomationCourse\\Repos\\LessonsAutomation\\Lesson1\\Lesson1\\Lesson1.csproj",
-      "packagesPath": "C:\\Users\\Centrical\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Centrical\\OneDrive - Centrical\\Documents\\AutomationCourse\\Repos\\LessonsAutomation\\Lesson1\\Lesson1\\obj\\",
+      "projectPath": "C:\\Users\\YehudaAlkalay\\source\\repos\\FrameworkTests\\LessonsAutomation\\Lesson1\\Lesson1\\Lesson1.csproj",
+      "packagesPath": "C:\\Users\\YehudaAlkalay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YehudaAlkalay\\source\\repos\\FrameworkTests\\LessonsAutomation\\Lesson1\\Lesson1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Centrical\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\YehudaAlkalay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4643,7 +4643,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/infra/auth/aecb0983-0b49-42a1-9445-b7348e80088b/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -4684,26 +4685,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
