@@ -12,5 +12,6 @@ namespace Lesson1
         //we did it!!
         //Hello from Tolik
         //Safi is amazing! Solved the merge problems!
+        //Sefi's commit for check that git still work
     }
 }
